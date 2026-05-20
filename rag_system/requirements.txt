@@ -1,0 +1,86 @@
+# =========================
+# CORE RAG / LLM
+# =========================
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langgraph
+
+# =========================
+# EMBEDDING / HF MODELS
+# =========================
+sentence-transformers
+transformers
+torch
+accelerate
+
+# =========================
+# VECTOR DATABASE
+# =========================
+chromadb
+faiss-cpu
+
+# =========================
+# DOCUMENT LOADERS
+# =========================
+unstructured
+pypdf
+python-docx
+docx2txt
+
+# =========================
+# API BACKEND
+# =========================
+fastapi
+uvicorn
+python-multipart
+
+# =========================
+# FRONTEND
+# =========================
+streamlit
+
+# =========================
+# ENVIRONMENT
+# =========================
+python-dotenv
+
+# =========================
+# DATA / UTILITIES
+# =========================
+numpy
+pandas
+tqdm
+
+# =========================
+# RETRIEVAL IMPROVEMENT
+# =========================
+rank-bm25
+
+# =========================
+# OPTIONAL GRAPH RAG
+# =========================
+neo4j
+
+# =========================
+# OPTIONAL OCR
+# =========================
+pytesseract
+Pillow
+
+# =========================
+# OPTIONAL TOKEN COUNTING
+# =========================
+tiktoken
+
+
+## env
+dotenv
+
+#security
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+sqlalchemy
